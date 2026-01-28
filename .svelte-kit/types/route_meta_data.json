@@ -1,0 +1,21 @@
+{
+	"/": [
+		"src/routes/+layout.ts",
+		"src/routes/+layout.ts"
+	],
+	"/alterar-senha": [
+		"src/routes/+layout.ts"
+	],
+	"/historico": [
+		"src/routes/+layout.ts"
+	],
+	"/notificacoes": [
+		"src/routes/+layout.ts"
+	],
+	"/requisicao": [
+		"src/routes/+layout.ts"
+	],
+	"/solicitacoes-agendadas": [
+		"src/routes/+layout.ts"
+	]
+}
